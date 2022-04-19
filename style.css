@@ -1,11 +1,12 @@
 body {
  background-image: url("https://1.bp.blogspot.com/-3d4pXrM5YGY/UOgZf7pLbbI/AAAAAAAAKz8/dI-utiG63ms/s1600/apple-wallpaper-in-alle-kleuren-van-de-regenboog.jpg");
- background-color: #cccccc;
+ background-color: darkcyan;
  background-repeat: no-repeat;
  background-position: 50% 0px;
- background-size: 100% 100%;
+ background-size: 100%;
  font: caption;
  color: aquamarine;
+ background-attachment: fixed;
 }
 a {
   color: rgb(81, 81, 221)
@@ -26,7 +27,7 @@ a {
 
 #menu a:hover {
   color: black;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .kopje {
